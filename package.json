@@ -1,0 +1,14 @@
+{
+  "name": "syeong-website",
+  "version": "0.0.1",
+  "description": "Project for personal website",
+  "main": "index.js",
+  "author": "Seyeong Park",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^16.0.0"
+  }
+}
